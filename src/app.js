@@ -18,7 +18,7 @@ class App extends Component {
         messagingSenderId: "120569626058"
       }
     );
-};
+}
 
   render() {
     return (
